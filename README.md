@@ -1,5 +1,7 @@
 # Yamete-go
-![yamete](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZkOWdvbmx2NG03bWZucGJ1MTV4ZnM2MHl1bTE4bGt3a2xmcDFpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy33dWjmywkCnNS/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZkOWdvbmx2NG03bWZucGJ1MTV4ZnM2MHl1bTE4bGt3a2xmcDFpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy33dWjmywkCnNS/giphy.gif" alt="yamete"/>
+</p>
 
 **Yamete-Go** comes from the Japanese word **"Yamete" (やめて)**, which means **"stop"**.  
 In this context, **Yamete-Go is a high-performance text censorship library** that utilizes a **Trie-based pattern matching** algorithm to detect and censor unwanted words in a text.
